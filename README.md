@@ -1,4 +1,4 @@
-# 🤖 Breifit AI Repository
+# 🤖 Briefit AI Repository
 
 본 프로젝트는 여러 국내외 뉴스 사이트에서 기사를 수집하고, AI를 활용하여 편향성이 제거된 사실 기반의 요약 뉴스를 생성하는 것을 목표로 합니다. 사용자는 다양한 관점의 뉴스를 종합적으로 이해하고, 핵심 정보를 빠르게 파악할 수 있습니다.
 
@@ -20,12 +20,12 @@
 ### 1. 환경 설정
 ```bash
 # 1. 저장소 클론
-git clone https://github.com/capstone-btd/Breifit_AI.git
+git clone https://github.com/capstone-btd/Briefit_AI.git
 cd Breifit_AI
 
 # 2. 가상환경 생성 및 활성화 (권장)
-conda create -n breifit python=3.10.16
-conda activate breifit
+conda create -n briefit python=3.10.16
+conda activate briefit
 
 # 3. 의존성 패키지 설치
 pip install -r requirements.txt
